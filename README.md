@@ -1,2 +1,6 @@
 # Range-Sum-of-Sorted-Subarray-Sums-PY
-Leetcode practice #1508
+- Leetcode practice #1508
+
+## Built With
+- Python
+- VS Code
